@@ -1,5 +1,5 @@
 body {
-    
+
     background-color: rgb(119, 119, 119);
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -17,18 +17,19 @@ header {
     background-color: rgb(220,220,220);
     width: 1000px;
     padding: 50px;
-    box-sizing: border-box;
+
+  box-sizing: border-box;
 }
 nav {
 
     background-color: rgb(220,220,220);
     width: 1000px;
-    padding: 50px;
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: 150px;
-    margin-right: 5px;
-    box-sizing: border-box;
+  padding: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 150px;
+  margin-right: 5px;
+  box-sizing: border-box;
 }
 
 section {
@@ -40,7 +41,7 @@ section {
     margin-bottom: 45px;
     margin-left: 150px;
     margin-right: 2px;
-    
+
 }
 
 aside {
@@ -49,9 +50,9 @@ aside {
     width: 200px;
     padding: 120px;
     margin-top: 10px;
-    margin-right: 180px;
+    margin-right: 195px;
     margin-bottom: 60px;
-
+    margin-left: 80px;
 }
 
 article {
@@ -88,4 +89,4 @@ footer {
     margin-left: 150px;
     margin-bottom: 100px;
     box-sizing: border-box;
-}
+} 
