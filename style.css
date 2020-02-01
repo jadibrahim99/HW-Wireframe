@@ -17,19 +17,18 @@ header {
     background-color: rgb(220,220,220);
     width: 1000px;
     padding: 50px;
-
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 nav {
 
     background-color: rgb(220,220,220);
     width: 1000px;
-  padding: 50px;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: 150px;
-  margin-right: 5px;
-  box-sizing: border-box;
+    padding: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 150px;
+    margin-right: 5px;
+    box-sizing: border-box;
 }
 
 section {
